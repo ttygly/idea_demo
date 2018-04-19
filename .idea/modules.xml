@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/itheima_common/itheima_common.iml" filepath="$PROJECT_DIR$/itheima_common/itheima_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima_manager/itheima_manager.iml" filepath="$PROJECT_DIR$/itheima_manager/itheima_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima_manager/itheima_manager_dao/itheima_manager_dao.iml" filepath="$PROJECT_DIR$/itheima_manager/itheima_manager_dao/itheima_manager_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima_manager/itheima_manager_interface/itheima_manager_interface.iml" filepath="$PROJECT_DIR$/itheima_manager/itheima_manager_interface/itheima_manager_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima_manager/itheima_manager_pojo/itheima_manager_pojo.iml" filepath="$PROJECT_DIR$/itheima_manager/itheima_manager_pojo/itheima_manager_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima_manager/itheima_manager_service/itheima_manager_service.iml" filepath="$PROJECT_DIR$/itheima_manager/itheima_manager_service/itheima_manager_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima_parent.iml" filepath="$PROJECT_DIR$/itheima_parent.iml" />
+    </modules>
+  </component>
+</project>
